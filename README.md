@@ -1,1 +1,1 @@
-# shop-js
+# Only JavaScript
